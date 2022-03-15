@@ -1,0 +1,8 @@
+name: CelestiamCombatLog
+main: fr.blixow.plugin.CombatMain
+version: 1.2
+author: blixow14
+depend: [WorldEdit, WorldGuard]
+commands:
+  ct:
+    description: combat status
